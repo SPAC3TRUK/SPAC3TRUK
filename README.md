@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SPAC3TRUK. I'm Italian 
 - 👀 I’m interested in Computer science
+- I’m App/game developer 🧑🏻‍💻
 - 📫 INSTAGRAM:SPAC3TRUK
 
 <!---
