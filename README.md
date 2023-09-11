@@ -14,9 +14,10 @@ Sono Christian Mosci in arte SPAC3TRUK 🚀
 - (X)Twitter: [CHRISTIAN MOSCI]
 
 👨‍💻 Alcuni dei miei progetti:
--Ancora nessun progetto pubblicato
- -Ma restate aggiornati!!
- -Stiamo lavorando ⚙️
+- Ancora nessun progetto pubblicato
+- Ma restate aggiornati!!
+- Stiamo lavorando ⚙️
+
  
 
 🔗 Seguimi su GitHub per rimanere aggiornato sui miei progetti e contributi!
