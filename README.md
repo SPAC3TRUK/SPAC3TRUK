@@ -1,6 +1,6 @@
 # Benvenuto sul mio profilo GitHub 👋
 
-Sono [Christian Mosci]in arte [SPAC3TRUK]🚀
+Sono Christian Mosci in arte SPAC3TRUK 🚀
 
 🌱 Attualmente sto imparando e sviluppando in [C#,C++,Pyton,Java,Dart].
 
