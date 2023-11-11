@@ -2,7 +2,7 @@
 
 Sono Christian Mosci in arte SPAC3TRUK 🚀
 
-🌱 Attualmente sto imparando e sviluppando in [C#,C++,Pyton,Java,Dart].
+🌱 Attualmente sto imparando e sviluppando in [C#,C++,Pyton,Js,css,html,Dart].
 
 👨‍🏫 Attualmente studio in una facoltà di informatica in Italia.
 
