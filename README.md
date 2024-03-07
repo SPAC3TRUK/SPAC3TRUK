@@ -1,4 +1,4 @@
-# Welcome to my github profile 👋
+# Welcome to my GitHub profile 👋
 
 I am Christian Mosci in art SPAC3TRUK 🚀
 
