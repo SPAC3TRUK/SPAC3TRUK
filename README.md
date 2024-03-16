@@ -9,19 +9,22 @@ I am Christian Mosci in art SPAC3TRUK 🚀
 📫 How to contact me:
 - Main email: [christian.mosci@gmail.com] (For main contacts)
 - Secondary email available on request: [mosci.software@gmail.com] (For specific communications)
-- Instagram: [christian_mosci]
-- YouTube: [SPAC3TRUK]
-- (X)Twitter: [CHRISTIAN MOSCI]
-- Twitch: [SPAC3TRUK]
-- Thingiverse [SPAC3TRUK]
+- [Instagram](https://instagram.com/christian_mosci/).
+- [YouTube](https://www.youtube.com/channel/UC_w_Tv8mzTKADdcNQ_Iezow).
+- [Twitter x](https://twitter.com/SPAC3TRUK).
+- [Twitch](https://www.twitch.tv/spac3truk/).
+- [Thingiverse](https://www.thingiverse.com/spac3truk/designs).
+  
+☕ Help us, buy us a coffee!:
+- [buy a coffee](https://www.paypal.me/SPAC3TRUK?locale.x=en_IT).
 
+  
 👨‍💻 Some of my projects:
 - No projects yet published
 - But stay updated!!
 - We are working ⚙️
 
  
-
 🔗 Follow me on github to stay updated on my projects and contributions!
 
 <!---
