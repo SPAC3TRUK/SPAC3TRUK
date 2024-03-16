@@ -12,6 +12,8 @@ I am Christian Mosci in art SPAC3TRUK 🚀
 - Instagram: [christian_mosci]
 - YouTube: [SPAC3TRUK]
 - (X)Twitter: [CHRISTIAN MOSCI]
+- Twitch: [SPAC3TRUK]
+- Thingiverse [SPAC3TRUK]
 
 👨‍💻 Some of my projects:
 - No projects yet published
