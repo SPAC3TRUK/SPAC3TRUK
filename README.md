@@ -2,7 +2,7 @@
 
 I am Christian Mosci in art SPAC3TRUK 🚀
 
-🌱 I’m currently learning and developing in [C#,C++,Pyton,Js,css,html,Dart].
+🌱 I’m currently learning and developing in [C#,C++,Python,Js,css,html,Json,Dart].
 
 👨‍🏫 I’m currently studying computer science in Italy.
 
