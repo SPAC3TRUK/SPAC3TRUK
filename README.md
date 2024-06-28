@@ -7,6 +7,7 @@ I am Christian Mosci in art SPAC3TRUK 🚀
 👨‍🏫 I’m currently studying computer science in Italy.
 
 📫 How to contact me:
+- [Google PlayStore](https://play.google.com/store/apps/dev?id=8359076747886912571).
 - Main email: [christian.mosci@gmail.com] (For main contacts)
 - Secondary email available on request: [mosci.software@gmail.com] (For specific communications)
 - [Instagram](https://instagram.com/christian_mosci/).
