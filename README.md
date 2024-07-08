@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile 👋
 
 I am Christian Mosci in art SPAC3TRUK 🚀
+- [Visit other service](https://linktr.ee/spac3truk).
 
 🌱 I’m currently learning and developing in [C#,C++,Python,Js,css,html,Json,Dart].
 
