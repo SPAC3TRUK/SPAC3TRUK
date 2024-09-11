@@ -22,9 +22,7 @@ I am Christian Mosci in art SPAC3TRUK 🚀
 
   
 👨‍💻 Some of my projects:
-- No projects yet published
-- But stay updated!!
-- We are working ⚙️
+-[OVERNOTE](https://github.com/SPAC3TRUK/OVERNOTE).
 
  
 🔗 Follow me on github to stay updated on my projects and contributions!
