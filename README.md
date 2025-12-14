@@ -3,7 +3,7 @@
 I am Christian Mosci in art SPAC3TRUK 🚀
 - [Visit other service](https://linktr.ee/spac3truk).
 
-🌱 I’m currently learning and developing in [C#,C++,Python,Js,css,html,java,Json,Dart].
+🌱 I’m currently learning and developing in [C#,C++,Python,Js,css,html,java,Json,Dart,Php].
 
 👨‍🏫 I’m currently studying computer science in Italy.
 
@@ -16,9 +16,10 @@ I am Christian Mosci in art SPAC3TRUK 🚀
 - [Twitter x](https://twitter.com/SPAC3TRUK).
 - [Twitch](https://www.twitch.tv/spac3truk/).
 - [Thingiverse](https://www.thingiverse.com/spac3truk/designs).
+- [LinkTree](https://linktr.ee/spac3truk).
   
-☕ Help us, buy us a coffee!:
-- [buy a coffee](https://www.paypal.me/SPAC3TRUK?locale.x=en_IT).
+🏫 Visit My School GitHub Profile:
+- [Christian Mosci Itis Franchetti Salviani](https://github.com/ChristianMosci).
 
   
 👨‍💻 Some of my projects:
