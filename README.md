@@ -18,11 +18,7 @@ I am Christian Mosci in art SPAC3TRUK 🚀
 - [Twitch](https://www.twitch.tv/spac3truk/).
 - [Thingiverse](https://www.thingiverse.com/spac3truk/designs).
 - [LinkTree](https://linktr.ee/spac3truk).
-  
-🏫 Visit My School GitHub Profile:
-- [Christian Mosci Itis Franchetti Salviani](https://github.com/ChristianMosci).
-
-  
+    
 👨‍💻 Some of my projects:
 
 -[OVERNOTE](https://github.com/SPAC3TRUK/OVERNOTE).
