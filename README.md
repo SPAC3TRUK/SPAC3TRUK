@@ -31,6 +31,8 @@ I am Christian Mosci in art SPAC3TRUK 🚀
 
 -[Air-Link(Esp8266)](https://github.com/SPAC3TRUK/Air-Link-Esp8266-).
 
+-[DiamondMinecraftLamp(Esp32)](https://github.com/SPAC3TRUK/ESP32-MinecraftDiamondLamp).
+
  
 🔗 Follow me on github to stay updated on my projects and contributions!
 
